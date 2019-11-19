@@ -15,11 +15,9 @@ namespace ConsoleApp5
             this.RealPart = Re;
             this.ImPart = Im;
         }
-
-        // deafult constructor
+ 
         public Complex()
         {
-
         }
 
         /// <summary>
