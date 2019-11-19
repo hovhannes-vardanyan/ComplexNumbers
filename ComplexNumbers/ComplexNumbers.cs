@@ -81,7 +81,7 @@ namespace ConsoleApp5
             }
             if (this.RealPart == 0 && this.ImPart > 0)
             {
-                argument =  (Math.PI / 2);
+                argument =  Math.PI / 2;
             }
             if (this.RealPart == 0 && this.ImPart < 0)
             {
