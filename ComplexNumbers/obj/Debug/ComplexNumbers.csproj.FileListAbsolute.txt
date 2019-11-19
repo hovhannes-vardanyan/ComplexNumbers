@@ -1,0 +1,5 @@
+C:\Users\Hovhannes\Source\Repos\ComplexNumbers\ComplexNumbers\bin\Debug\ConsoleApp5.exe.config
+C:\Users\Hovhannes\Source\Repos\ComplexNumbers\ComplexNumbers\bin\Debug\ConsoleApp5.exe
+C:\Users\Hovhannes\Source\Repos\ComplexNumbers\ComplexNumbers\bin\Debug\ConsoleApp5.pdb
+C:\Users\Hovhannes\Source\Repos\ComplexNumbers\ComplexNumbers\obj\Debug\ConsoleApp5.exe
+C:\Users\Hovhannes\Source\Repos\ComplexNumbers\ComplexNumbers\obj\Debug\ConsoleApp5.pdb
